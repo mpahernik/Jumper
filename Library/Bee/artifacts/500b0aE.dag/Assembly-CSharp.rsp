@@ -336,6 +336,7 @@
 "Assets/Scripts/GameOver.cs"
 "Assets/Scripts/GreenPuddle.cs"
 "Assets/Scripts/MainMenuButton.cs"
+"Assets/Scripts/MainMenuButtonFunctions.cs"
 "Assets/Scripts/Playbutton.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Score.cs"

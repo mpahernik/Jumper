@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\GameOver.cs" />
     <Compile Include="Assets\Scripts\Snowballpile.cs" />
     <Compile Include="Assets\Scripts\Target.cs" />
+    <Compile Include="Assets\Scripts\MainMenuButtonFunctions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
